@@ -23,7 +23,7 @@
   "module": "index.mjs",
   "types": "index.d.ts",
   "dependencies": {
-    "workbox-cacheable-response": "^6.0.2",
+    "workbox-cacheable-response": "^6.1.5",
     "workbox-core": "^6.0.2",
     "workbox-expiration": "^6.0.2",
     "workbox-precaching": "^6.0.2",
